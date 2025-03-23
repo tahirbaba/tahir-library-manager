@@ -1,0 +1,52 @@
+{
+  "books": [
+    {
+      "title": "The Constitution of Pakistan",
+      "author": "M. Zafar Iqbal Kalanauri",
+      "genre": "Law, Constitution",
+      "publication_year": 2020
+    },
+    {
+      "title": "Pakistan Penal Code with Commentary",
+      "author": "Shaukat Mahmood",
+      "genre": "Criminal Law",
+      "publication_year": 2018
+    },
+    {
+      "title": "Manual of Civil Laws in Pakistan",
+      "author": "Dr. Liaqat Niazi",
+      "genre": "Civil Law",
+      "publication_year": 2019
+    },
+    {
+      "title": "Business and Corporate Laws of Pakistan",
+      "author": "S. A. Rehman",
+      "genre": "Corporate Law",
+      "publication_year": 2021
+    },
+    {
+      "title": "Family Laws in Pakistan",
+      "author": "Aamir Raza",
+      "genre": "Family Law",
+      "publication_year": 2017
+    },
+    {
+      "title": "Labour Laws of Pakistan",
+      "author": "Irfan Qadir",
+      "genre": "Labour Law",
+      "publication_year": 2016
+    },
+    {
+      "title": "Cyber Laws of Pakistan",
+      "author": "Waqar Ahmad",
+      "genre": "Cyber Law",
+      "publication_year": 2022
+    },
+    {
+      "title": "Environmental Laws of Pakistan",
+      "author": "Dr. Zubair Ahmed",
+      "genre": "Environmental Law",
+      "publication_year": 2019
+    }
+  ]
+}
